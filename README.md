@@ -18,7 +18,7 @@
 
 ## About
 
-Passman is a password manager that integrates AI with managing and creating passwords, it not only creates specific easy to remember passwords, but it also can keep track of all your passwords so you will not have to remember them all!
+Passman is a password manager that integrates AI with managing and creating passwords, it can not only generate easy to remember passwords using AI, but it can also be used to keep track of all your passwords so you will not have to remember them all!
 
 ## Developing
 
